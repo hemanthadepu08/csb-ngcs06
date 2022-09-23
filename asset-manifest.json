@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://hemanthadepu08.github.io/csb-ngcs06/static/css/main.f29ae65a.chunk.css",
+    "main.js": "https://hemanthadepu08.github.io/csb-ngcs06/static/js/main.c8363cbe.chunk.js",
+    "main.js.map": "https://hemanthadepu08.github.io/csb-ngcs06/static/js/main.c8363cbe.chunk.js.map",
+    "runtime-main.js": "https://hemanthadepu08.github.io/csb-ngcs06/static/js/runtime-main.43002250.js",
+    "runtime-main.js.map": "https://hemanthadepu08.github.io/csb-ngcs06/static/js/runtime-main.43002250.js.map",
+    "static/js/2.a4daf67f.chunk.js": "https://hemanthadepu08.github.io/csb-ngcs06/static/js/2.a4daf67f.chunk.js",
+    "static/js/2.a4daf67f.chunk.js.map": "https://hemanthadepu08.github.io/csb-ngcs06/static/js/2.a4daf67f.chunk.js.map",
+    "index.html": "https://hemanthadepu08.github.io/csb-ngcs06/index.html",
+    "static/css/main.f29ae65a.chunk.css.map": "https://hemanthadepu08.github.io/csb-ngcs06/static/css/main.f29ae65a.chunk.css.map",
+    "static/js/2.a4daf67f.chunk.js.LICENSE.txt": "https://hemanthadepu08.github.io/csb-ngcs06/static/js/2.a4daf67f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.43002250.js",
+    "static/js/2.a4daf67f.chunk.js",
+    "static/css/main.f29ae65a.chunk.css",
+    "static/js/main.c8363cbe.chunk.js"
+  ]
+}
